@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Fillip Restier 👋
 
-- 🔭 Procurando trabalho com front-end
+- 🔭 Estudante de Desenvolvimento web 
 - 💬 Contate-me no email: traderrestier@gmail.com
 - 😄 Pronouns: ele/dele
 
