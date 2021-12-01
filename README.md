@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Fillip Restier 👋
 
 - 🔭 Estudante de Desenvolvimento web 
-- 💬 Contate-me no email: traderrestier@gmail.com
+- 💬 Contate-me no email: filliprestierprofissional@gmail.com
 - 😄 Pronouns: ele/dele
 
 <div>
